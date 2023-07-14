@@ -16,7 +16,7 @@ Prasanna's Mini Calendar is a simple web project that displays the current date,
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Mini-Calendar/
+    https://prasannad02.github.io/Mini-Calendar/
 ## Getting Started:
 
 To use Prasanna's Mini Calendar web page, follow these steps:
